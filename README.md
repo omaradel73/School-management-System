@@ -39,7 +39,7 @@ data-structure-C-main/
 
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/omaradel73/School-management-System.git>
+   git clone https://github.com/omaradel73/School-management-System.git
    cd data-structure-C-main
    ```
 
